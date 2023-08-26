@@ -29,7 +29,7 @@ You can run the executable file using this command on your terminal
 This briefly describe what this simple shell project does
 >
 ##### AUTHORS
-This is an auto-generated file listing names of contributors to this project. 
+This is an auto-generated file listing names of contributors to this project.  
 Click [https://github.com/deewondev/my_simple_shell/blob/main/AUTHORS](https://github.com/deewondev/my_simple_shell/blob/main/AUTHORS) for more info
 >
 #### main.h
