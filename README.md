@@ -29,9 +29,8 @@ You can run the executable file using this command on your terminal
 This briefly describe what this simple shell project does
 >
 ##### AUTHORS
-This is an auto-generated file listing names of contributors to this project.
-
-Click [here](hack/generate-authors.sh) for more info
+This is an auto-generated file listing names of contributors to this project. 
+Click [https://github.com/deewondev/my_simple_shell/blob/main/AUTHORS](https://github.com/deewondev/my_simple_shell/blob/main/AUTHORS) for more info
 >
 #### main.h
 This header file consist of all standard libraries used, macros, and prototype of functions used in this project
